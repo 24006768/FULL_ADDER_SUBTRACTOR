@@ -51,6 +51,7 @@ FULL ADDER:
 3. The circuit consists of XOR, AND, and OR gates.
 4. Compile the design, and verify its functionality through simulation.
 5. Implement the design on the target device and program it.
+
 FULL SUBTRACTOR:
 1. Follow the same steps as for the full adder.
 2. Draw the full subtractor circuit using schematic design.
