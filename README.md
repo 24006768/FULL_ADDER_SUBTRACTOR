@@ -72,9 +72,10 @@ FULL SUBTRACTOR:
 
 **OUTPUT TIMING WAVEFORM**
 
-![8](https://github.com/user-attachments/assets/e6c03c4c-ad9a-4c84-a9ed-f018f8cce9e3)
+![image](https://github.com/user-attachments/assets/d194e35a-2f04-4c72-97f0-fd07fb81ffd9)
 
-![9](https://github.com/user-attachments/assets/9d735d44-ec28-49eb-8f46-ff1b0a0f8bf2)
+![1000062789](https://github.com/user-attachments/assets/23e490f6-323a-4f4a-8c1e-3bff0b0aae05)
+
 
 **RESULT:**
 
